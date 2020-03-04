@@ -7,6 +7,7 @@
 
 * [Registration](accounts/registration.md)
 * [Forgot Password](accounts/forgot-password.md)
+* [Change Password](accounts/change-password.md)
 
 ## Projects
 
@@ -37,6 +38,7 @@
 ## Images
 
 * [Images Management](images/images-management.md)
+* [Take Snapshot](images/take-snapshot.md)
 
 ## Resources
 
